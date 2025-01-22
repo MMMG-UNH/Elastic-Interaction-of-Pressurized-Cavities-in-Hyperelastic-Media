@@ -3,7 +3,9 @@ Multiphysics-Mechanics-of-Materials-Group-at-UNH
 This repository contains the code and data accompanying the research paper:
 
 "Elastic Interaction of Pressurized Cavities in Hyperelastic Media: Attraction and Repulsion"
+
 Ali Saeedi, Mrityunjay Kothari
+
 Published in Journal of Applied Mechanics, 2025
 
 Abstract
