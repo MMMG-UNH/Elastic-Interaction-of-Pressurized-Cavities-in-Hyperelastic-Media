@@ -16,7 +16,7 @@ Citation
 If you find this code useful in your research or work, please consider citing our paper:
 @article{Saeedi2025,
   title     = {Elastic Interaction of Pressurized Cavities in Hyperelastic Media: Attraction and Repulsion},
-  author    = {Saeedi, A. and Cothari, M.},
+  author    = {Saeedi, A. and Kothari, M.},
   journal   = {Journal of Applied Mechanics},
   year      = {2025},
   volume    = {XX},
