@@ -1,11 +1,8 @@
 Multiphysics-Mechanics-of-Materials-Group-at-UNH
 
 This repository contains the code and data accompanying the research paper:
-
 "Elastic Interaction of Pressurized Cavities in Hyperelastic Media: Attraction and Repulsion"
-
 Ali Saeedi, Mrityunjay Kothari
-
 Published in Journal of Applied Mechanics, 2025
 
 Abstract
@@ -17,9 +14,7 @@ Effect of strain stiffening on these interactions are also analyzed.
 These insights bridge theoretical and applied mechanics, with implications for soft material design and subsurface engineering.]
 
 Citation
-
 If you find this code useful in your research or work, please consider citing our paper:
-
 @article{YourLastName2025,
   title     = {Elastic Interaction of Pressurized Cavities in Hyperelastic Media: Attraction and Repulsion},
   author    = {Saeedi, A. and Cothari, M.},
