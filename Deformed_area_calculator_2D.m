@@ -3,7 +3,7 @@ clc;clear;close all;
 base_dir = 'D:\ElasticInteraction\files';
 P = 5;
 d_min = 0.22;
-d_max = 0.22;
+d_max = 2.0;
 d_increment = 0.02;
 R = 0.1;
 d = d_min:d_increment:d_max;

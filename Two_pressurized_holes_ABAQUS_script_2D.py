@@ -30,7 +30,7 @@ os.chdir(base_dir)
 # Initialize parameters
 P = 30 # pressure of holes
 d_min = 0.22 # starting value of center-to-center holes' distance
-d_max = 0.24 + 0.0001 # ending value of center-to-center holes' distance, ensuring the upper bound is inclusive
+d_max = 2.0 + 0.0001 # ending value of center-to-center holes' distance, ensuring the upper bound is inclusive
 d_increment = 0.02 # distance increment
 R_m, R = 5.0, 0.1 # domain radius, hole radius
 material_model = 'NH' # Define the material model to be used # Change this to 'LE', 'MR', or 'AB' for other models
