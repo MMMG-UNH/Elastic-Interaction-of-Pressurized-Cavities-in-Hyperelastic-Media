@@ -19,10 +19,10 @@ If you find this code useful in your research or work, please consider citing ou
   author    = {Saeedi, A. and Kothari, M.},
   journal   = {Journal of Applied Mechanics},
   year      = {2025},
-  volume    = {XX},
-  number    = {X},
-  pages     = {XX-XX},
-  doi       = {10.xxxx/xxxxxx},
+  volume    = {92},
+  number    = {5},
+  pages     = {051008},
+  doi       = {10.1115/1.4067855},
 }
 
 Usage
