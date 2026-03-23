@@ -22,7 +22,7 @@ If you find this code useful in your research or work, please consider citing ou
   volume    = {92},
   number    = {5},
   pages     = {051008},
-  doi       = {10.1115/1.4067855},
+  doi       = {10.1115/1.4067855}
 }
 
 Usage
