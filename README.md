@@ -51,7 +51,7 @@ $$\mathcal{F} = -\frac{d\Pi^{\eta}_{\text{eqm}}}{d\eta}$$
 ### Python / ABAQUS scripts
 - ABAQUS 2022 or compatible version (scripts use the ABAQUS Python scripting interface)
 - NumPy (bundled with ABAQUS's Python environment)
-- Scripts must be run from within the ABAQUS/CAE scripting environment or via `abaqus cae noGUI=script.py`
+- Scripts must be run from within the ABAQUS/CAE through 'File > Run Script'
 
 ---
 
