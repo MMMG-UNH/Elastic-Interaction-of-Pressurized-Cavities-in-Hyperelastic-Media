@@ -37,7 +37,7 @@ $$\mathcal{F} = -\frac{d\Pi^{\eta}_{\text{eqm}}}{d\eta}$$
 │   └── One_pressurized_hole_ABAQUS_script_2D.py    # Baseline single-cavity simulation for validation (Appendix B of paper)
 │
 └── Post-processing (MATLAB)
-    └── Deformed_area_calculator_2D.m      # Computes deformed cavity area via Delaunay triangulation of FEM node coordinates
+    └── Deformed_area_calculator_2D.m      # Computes deformed cavity area via Delaunay triangulation of extracted node coordinates
 ```
 
 ---
