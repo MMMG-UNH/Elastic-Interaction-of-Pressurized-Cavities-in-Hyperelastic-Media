@@ -85,15 +85,15 @@ Open `Two_pressurized_holes_ABAQUS_script_2D.py` and configure:
 - `material_model`: `'NH'` (neo-Hookean), `'LE'` (linear elastic), `'MR'` (Mooney–Rivlin), or `'AB'` (Arruda–Boyce)
 - Material constants for the chosen model (see parameter block in script)
 
-Run Section 1 of the script inside ABAQUS/CAE to create models and write `.inp` files.
+Section 1 of the script inside ABAQUS/CAE creates models and write `.inp` files.
 
 **Step 2: Submit jobs**
 
-Run Section 2 to submit all `.inp` files and wait for completion. Jobs are named `P{pressure}_dR{eta_over_R}`.
+Section 2 submits all `.inp` files and wait for completion. Jobs are named `P{pressure}_dR{eta_over_R}`.
 
 **Step 3: Extract results**
 
-Run Section 3 to extract from each `.odb` file:
+Section 3 extracts from each `.odb` file:
 - Total strain energy → written to `StrainEnergy.rpt`
 - Deformed nodal coordinates of the left hole boundary → written to `deformed_coordinates-{index}.csv`
 
