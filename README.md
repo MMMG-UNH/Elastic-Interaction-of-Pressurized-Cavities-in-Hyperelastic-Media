@@ -157,6 +157,5 @@ Support from NH BioMade under the National Science Foundation EPSCoR award #1757
 
 ## Contact
 
-- Ali Saeedi — ali.saeedi@unh.edu  
 - Mrityunjay Kothari — mrityunjay.kothari@unh.edu  
   Department of Mechanical Engineering, University of New Hampshire
