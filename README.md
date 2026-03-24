@@ -126,7 +126,7 @@ Key non-dimensionalizations used throughout:
 | Driving force | 𝓕 / μ |
 | Pressure | P / μ |
 
-where PE∞ = −πP²R²/μ is the potential energy of two non-interacting cavities.
+where PE∞ = −πP²R²/μ is the potential energy of two far away cavities.
 
 ---
 
